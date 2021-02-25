@@ -8,4 +8,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_PhysicsPoser/Main.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 86f7305049a523e48bd0b2cd8eec8449,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0c23f4048b95bb6469dc058e6ce6b30f,
+      type: 2}
